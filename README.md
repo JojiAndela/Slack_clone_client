@@ -1,7 +1,7 @@
-# Slack_clone_client
+# Slack Clone Client
 a clone of slack built with node.js, react and graphql
 
-####
+***
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
